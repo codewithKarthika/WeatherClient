@@ -21,7 +21,7 @@ This is a simple Java program that fetches real-time weather data using the Open
 3. Add org.json library to your project (required for JSON parsing)
 4. Run the program
 
-✅ Make sure to replace the API key in the code with your own from https://openweathermap.org/api
+Make sure to replace the API key in the code with your own from https://openweathermap.org/api
 
 
-Created by Kar
+Created by Karthika C
